@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/drawable/layout_background.xml" value="0.29583333333333334" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/activity_edit.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/activity_listextract.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/activity_register_dialog.xml" value="0.5" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/dialog_register.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/fragment_add_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/fragment_adddialog.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/fragment_beverage.xml" value="0.2703125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/fragment_condiment.xml" value="0.2703125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/fragment_dairy_productk.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/fragment_fruit.xml" value="0.32116336633663367" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/fragment_ice.xml" value="0.2046875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/fragment_ice_2.xml" value="0.2046875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/fragment_meatk.xml" value="0.2703125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/fragment_refriger.xml" value="0.27708333333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/fragment_refriger1.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/fragment_roomtemp_3.xml" value="0.2046875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/fragment_seafood.xml" value="0.3078125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/fragment_vege.xml" value="0.5" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/layout.xml" value="0.3984375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/mainList.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/mainlist.xml" value="0.33" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/mylist_item.xml" value="0.5" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/ocrview_item.xml" value="0.33" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/layout/register_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/menu/add_menu.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/menu/menu_toolbar.xml" value="0.209375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/menu/register_toolbar.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/receipt2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.18125" />
+        <entry key="..\:/Users/user/Desktop/recipt-master/app/src/main/res/drawable/layout_background.xml" value="0.4197916666666667" />
+        <entry key="..\:/Users/user/Desktop/recipt-master/app/src/main/res/layout/activity_edit.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/user/Desktop/recipt-master/app/src/main/res/layout/activity_listextract.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/user/Desktop/recipt-master/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/user/Desktop/recipt-master/app/src/main/res/layout/activity_register.xml" value="0.37327188940092165" />
+        <entry key="..\:/Users/user/Desktop/recipt-master/app/src/main/res/layout/dialog_register.xml" value="0.3338541666666667" />
+        <entry key="..\:/Users/user/Desktop/recipt-master/app/src/main/res/layout/fragment_beverage.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/user/Desktop/recipt-master/app/src/main/res/layout/fragment_bread.xml" value="0.3151041666666667" />
+        <entry key="..\:/Users/user/Desktop/recipt-master/app/src/main/res/layout/fragment_condiment.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/user/Desktop/recipt-master/app/src/main/res/layout/fragment_dairy_productk.xml" value="0.3151041666666667" />
+        <entry key="..\:/Users/user/Desktop/recipt-master/app/src/main/res/layout/fragment_fruit.xml" value="0.41041666666666665" />
+        <entry key="..\:/Users/user/Desktop/recipt-master/app/src/main/res/layout/fragment_ice_2.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/user/Desktop/recipt-master/app/src/main/res/layout/fragment_meatk.xml" value="0.33" />
+        <entry key="..\:/Users/user/Desktop/recipt-master/app/src/main/res/layout/fragment_nut.xml" value="0.3151041666666667" />
+        <entry key="..\:/Users/user/Desktop/recipt-master/app/src/main/res/layout/fragment_refriger1.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/user/Desktop/recipt-master/app/src/main/res/layout/fragment_roomtemp_3.xml" value="0.33" />
+        <entry key="..\:/Users/user/Desktop/recipt-master/app/src/main/res/layout/fragment_seafood.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/user/Desktop/recipt-master/app/src/main/res/layout/fragment_vege.xml" value="0.5" />
+        <entry key="..\:/Users/user/Desktop/recipt-master/app/src/main/res/layout/mylist_item.xml" value="0.25" />
+        <entry key="..\:/Users/user/Desktop/recipt-master/app/src/main/res/layout/ocrview_item.xml" value="0.22" />
+        <entry key="..\:/Users/user/Desktop/recipt-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/user/Desktop/recipt-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.24635416666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/receipt/registerFragmentActivity/BreadFragment.kt" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
