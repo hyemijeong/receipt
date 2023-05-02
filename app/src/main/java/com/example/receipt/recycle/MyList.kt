@@ -17,13 +17,6 @@ class MyList(@PrimaryKey var id: Long?,
           @ColumnInfo(name = "storage") var storage: String, //보관 상태
           @ColumnInfo(name = "storage_info") var storage_info: String, // 보관 방법
           @ColumnInfo(name = "index") var index: Int,
-
-
-
-
-
-
-
              ): Serializable {
         constructor(): this(null,0,"","","","","","","",0)
 }

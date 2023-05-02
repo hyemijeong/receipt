@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
         android:id="@+id/receipt"
         android:title="영수증 등록" />
-
     <item
         android:id="@+id/register"
         android:title="직접 등록" />
+    <menu />
 </menu>
